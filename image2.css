@@ -1,0 +1,33 @@
+
+
+.container{
+    width: 800px;
+    height: 400px;
+    background-color:rgb(236, 227, 227) ;
+    border-right: 3px solid black;
+}
+/* #first-p{
+    float:left;
+   
+}
+#sec-p{
+    float: inline-start;
+   
+}
+#third-p{
+    float: inline-start;
+   
+} */
+p{
+    width: 250px;
+    background-color: antiquewhite;
+    margin: 5px;
+    float: inline-start;
+}
+.scrolling-p{
+    overflow: auto;
+    width: 800px;
+    height: 65px;
+   border-bottom: 2px solid black;
+   border-top: 2px solid black;
+}
